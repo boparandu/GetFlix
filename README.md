@@ -20,7 +20,7 @@ GetFlix is an app that allows users to browse movies from the [The Movie Databas
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-<img src="https://media.giphy.com/media/xUA7b68VhMqQ4Xv8aY/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/mqmR0MTOhA1lmpoVut/giphy.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
